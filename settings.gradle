@@ -1,0 +1,2 @@
+rootProject.name = "Responsi Fintech"
+include ':app'
